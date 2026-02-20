@@ -38,7 +38,7 @@ local function startFarming()
                     rootPart.Anchored = false
                     
                    
-                     1.5 หน่วย
+                     
                     local targetPos = obj.CFrame * CFrame.new(0, 1.5, 1.5)
                     
                     
